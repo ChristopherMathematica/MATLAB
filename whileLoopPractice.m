@@ -1,3 +1,8 @@
+% Course: CEN200
+% Student: Christopher Yonek
+% Date: October 2020
+% Assignment: Practice Using Matlab while loops 
+
 i1 = 1;
 while (i1 < 19) 
    i2 = 3; 
