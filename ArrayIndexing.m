@@ -1,3 +1,8 @@
+% Course: CEN200
+% Student: Christopher Yonek
+% Date: October 2020
+% Assignment: Homework 2
+
 function count_words = sentenceSlice1(userString)
 
 % strtrim() to remove leading and following white space in string
